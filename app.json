@@ -1,15 +1,15 @@
 {
     "name": "virusi-md@1.0.0",
-    "description": "I am Virusi-Mbaya-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+    "description": "Kali Tech IT Solutions is here to make life even more interesting. Use our commands by typing .menu to view a list of commands",
     "logo": "https://drive.google.com/file/d/1USL0BfiXc8lV6_ax7MJTtJ8PrJJcrveB/preview",
-    "keywords": ["virusi-md", "vurusian", "Virusi-Md"],
+    "keywords": ["Kali-Tech-md", "Kali Tech IT Solutions", "Kali-Tech-md"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Kali Tech IT Solutions",
+        "value": "Kips Kali",
         "required": false },
   
     
